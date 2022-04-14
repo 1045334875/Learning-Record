@@ -105,6 +105,10 @@ git commit -m "update message"
 git push
 git checkout main
 git merge tytest
+(vscode里面修改)
+git add .
+git commit -m "merge result"
+git push
 ```
 
 全部操作如图：

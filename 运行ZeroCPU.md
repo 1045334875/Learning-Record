@@ -110,7 +110,8 @@ $ docker run --name oslab -it -v ${HOME}:/have-fun-debugging oslab:2021 bash    
 	}
 	```
 
-- 然后，在makefile里面，通过prepare在上一级目录的build里面生成一个elf文件，然后make的时候应该是比较。这里yzkgg改了一个TileForVerilator改成了TileForLab，要把makefile改一下才能跑。
+- 然后，在makefile里面，通过prepare在上一级目录的build里面生成一个elf文件，然后make的时候应该是比较。~~这里yzkgg改了一个TileForVerilator改成了TileForLab，要把makefile改一下才能跑。~~
+- 订正：直接make debug就可以生成
 
 	![image-20220414132742574](运行ZeroCPU.assets/image-20220414132742574.png)
 

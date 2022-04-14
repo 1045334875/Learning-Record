@@ -30,12 +30,12 @@ yzkgg在用的，好看但是不知道可操作性大不大。
 
    [1045334875 (Parfait-ty) (github.com)](https://github.com/1045334875)
 
-​	友链：信安19季高强https://reticenceji.github.io/
+​	友链：信安19季https://reticenceji.github.io/
 
 ​				（人如其名）
 
 ​				https://tropinene.github.io/
 
-​				信安19吴逸飞https://github.com/Yinwhe
+​				信安19飞https://github.com/Yinwhe
 
 ​				（一个可可爱爱强强的xgg，他的blog现在好像，停止访问了，就应该是被抛弃了呜呜）

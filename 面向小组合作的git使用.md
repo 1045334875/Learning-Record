@@ -84,7 +84,7 @@ git push
 git merge test
 ```
 
-会汇报add 和update的信息，如果有相同文件被修改，此时文件夹可以直接用vscode打开，vscode知道你现在刚merge，有两个地方来的文件信息，vsc代码里面会显示不同的地方，可以修改保存。（网上说也可以使用mergetool，但其实vsc就够了我觉得）
+会汇报add 和update的信息，如果有相同文件被修改，此时文件夹可以直接用vscode打开，vscode知道你现在刚merge，有两个地方来的文件信息(不同的地方分别是蓝色的和绿色的)，vsc代码里面会显示不同的地方，可以修改保存。（网上说也可以使用mergetool，但其实vsc就够了我觉得）
 
 ![image-20220414145634621](面向小组合作的git使用.assets/image-20220414145634621.png)
 
